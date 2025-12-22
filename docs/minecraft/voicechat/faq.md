@@ -132,5 +132,13 @@ If you are hosting the server on your local machine or a self hosted server, tak
     question: "Are vanish plugins compatible with the voice chat?",
     answer: `Yes! Starting with version 2.6.0 the voice chat server hides vanished players from the adjust volume list. Note that this only works with Minecraft 1.18.2 and newer.`,
   },
+  {
+    question: "Can I record replays with voice chat audio?",
+    answer: `
+    Yes! <a href="https://modrinth.com/mod/flashback">Flashback</a> has built-in support for recording Simple Voice Chat. You just need to enable it in the Flashback config.
+    <br>
+    If you are using ReplayMod, see <a href="https://modrinth.com/mod/replay-voice-chat">Replay Voice Chat</a> for more information.
+    `,
+  },
 ];
 </script>
