@@ -135,5 +135,12 @@ const credits = [
       link: "https://github.com/BeiDou114514",
     },
   },
+  {
+    element: { name: "Brazilian Portuguese translation" },
+    name: {
+      name: "PrincessStelllar",
+      link: "https://github.com/PrincessStelllar",
+    },
+  },
 ];
 </script>
